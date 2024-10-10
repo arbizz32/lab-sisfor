@@ -16,6 +16,7 @@ class Mahasiswa extends Model
         'nama',
         'nim',
         'semester',
+        'prodi',
         'upload_pembayaran',
     ];
     
